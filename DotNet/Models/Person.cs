@@ -22,7 +22,7 @@ namespace DotNet.Models //Project pathway
          */
         public void Present()
         {
-            Console.WriteLine($"Hello, my name is {name} and I'm {age} years old.");
+            Console.WriteLine($"Hello, my name is {Name} and I'm {Age} years old.");
             // The $ is used for string interpolation.
         }
     }
