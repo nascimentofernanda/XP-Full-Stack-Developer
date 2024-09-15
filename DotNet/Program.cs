@@ -20,3 +20,7 @@ stockcontrol.Verify();
 stockcontrol.QuantityAvaliable = 30;
 stockcontrol.QuantityWished = 40;
 stockcontrol.Verify();
+
+stockcontrol.QuantityAvaliable = 30;
+stockcontrol.QuantityWished = 0;
+stockcontrol.Verify();

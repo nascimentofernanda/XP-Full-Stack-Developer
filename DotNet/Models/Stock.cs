@@ -12,9 +12,15 @@ namespace DotNet.Models
 
         public void Verify()
         {
-            if (QuantityAvaliable>=QuantityWished)
+            bool orderAproved = QuantityWished>0 && QuantityAvaliable>=QuantityWished;
+            
+            if(orderAproved)
             {
                 Console.WriteLine("Your order will be prepared. Thank you for buying with us.");
+            }
+            else if (QuantityWished==0)
+            {
+                Console.WriteLine("Quantity Invalid.");
             }
             else
             {
