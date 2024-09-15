@@ -1,12 +1,3 @@
-﻿using System;
+﻿using DotNet.Models; //Where the class is located
+Pessoa p = new Pessoa();
 
-namespace DotNet
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
