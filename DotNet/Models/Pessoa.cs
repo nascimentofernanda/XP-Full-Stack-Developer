@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DotNet.Models
+namespace DotNet.Models //Caminho do projeto
 {
     public class Pessoa // Class name starts with capital letters
     {
