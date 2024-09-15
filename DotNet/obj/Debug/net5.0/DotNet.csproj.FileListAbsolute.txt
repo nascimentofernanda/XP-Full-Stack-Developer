@@ -3,14 +3,3 @@ C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\DotNet.
 C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfoInputs.cache
 C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfo.cs
 C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\DotNet.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\bin\Debug\net5.0\DotNet.exe
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\bin\Debug\net5.0\DotNet.deps.json
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.json
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.dev.json
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\bin\Debug\net5.0\DotNet.dll
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\bin\Debug\net5.0\ref\DotNet.dll
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\bin\Debug\net5.0\DotNet.pdb
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\DotNet.dll
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\ref\DotNet.dll
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\DotNet.pdb
-C:\Users\Usuario\Desktop\XP-Full-Stack-Developer\DotNet\obj\Debug\net5.0\DotNet.genruntimeconfig.cache
