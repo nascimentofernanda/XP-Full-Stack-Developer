@@ -1,6 +1,13 @@
-﻿using DotNet.Models; //Where the class is located
-Person person1 = new Person();
+﻿Stock stockcontrol = new Stock();
 
-person1.Name = "Fernanda";
-person1.Age = 30;
-person1.Present();
+stockcontrol.QuantityAvaliable = 30
+stockcontrol.QuantityWished = 20
+stockcontrol.Verify();
+
+stockcontrol.QuantityAvaliable = 30
+stockcontrol.QuantityWished = 30
+stockcontrol.Verify();
+
+stockcontrol.QuantityAvaliable = 30
+stockcontrol.QuantityWished = 40
+stockcontrol.Verify();
