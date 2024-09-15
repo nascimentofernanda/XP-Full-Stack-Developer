@@ -10,15 +10,15 @@ namespace DotNet.Models
         public int QuantityAvaliable { get; set; }
         public int QuantityWished { get; set; }
 
-        public Void Verify()
+        public void Verify()
         {
             if (QuantityAvaliable>=QuantityWished)
             {
-                Console.WriteLine("Your order will be prepared. Thank you for buying with us.")
+                Console.WriteLine("Your order will be prepared. Thank you for buying with us.");
             }
             else
             {
-                Console.WriteLine("I'm sorry but this quantity is not available.")
+                Console.WriteLine("I'm sorry but this quantity is not available.");
             }
         }
     }
