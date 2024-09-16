@@ -7,18 +7,18 @@ namespace DotNet.Models
 {
     public class Stock
     {
-        public int QuantityAvaliable { get; set; }
-        public int QuantityWished { get; set; }
+        public int quantityAvaliable { get; set; }
+        public int quantityWished { get; set; }
 
         public void Verify()
         {
-            bool orderAproved = QuantityWished>0 && QuantityAvaliable>=QuantityWished;
+            bool orderAproved = quantityWished>0 && quantityAvaliable>=quantityWished;
             
             if(orderAproved)
             {
                 Console.WriteLine("Your order will be prepared. Thank you for buying with us.");
             }
-            else if (QuantityWished==0)
+            else if (quantityWished==0)
             {
                 Console.WriteLine("Quantity Invalid.");
             }
