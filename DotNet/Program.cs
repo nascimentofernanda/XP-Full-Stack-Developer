@@ -24,3 +24,15 @@
 // stockcontrol.QuantityAvaliable = 30;
 // stockcontrol.QuantityWished = 0;
 // stockcontrol.Verify();
+
+
+using DotNet.Models;
+
+    class Program  
+    {  
+        static void Main(string[] args)  
+        {  
+            Vowel checker = new Vowel(); // Creates an instance of Vowel  
+            checker.Verify(); // Calls the method to check if the letter is a vowel  
+        }  
+    } 

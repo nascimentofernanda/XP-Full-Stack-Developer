@@ -7,17 +7,13 @@ namespace DotNet.Models
 {
     public class Vowel
     {
-        public char Letter { get; set; }
-
         public void Verify()
         {
             Console.WriteLine("Please type a letter:");
-            char letter = Console.ReadKey().KeyChar;
+            char letter = char.ToLower(Console.ReadKey().KeyChar); // Receives the letter and converts it to lowercase
             Console.WriteLine(); // Move to the next line after input
 
-            Letter = char.ToLower(letter);
-
-            switch (Letter)
+            switch (letter)
             {
                 case 'a':
                 case 'e':
