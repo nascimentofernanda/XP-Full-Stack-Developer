@@ -42,13 +42,13 @@
 
 
 //Permission.cs
-using DotNet.Models;
+// using DotNet.Models;
 
-    class Program  
-    {  
-        static void Main(string[] args)  
-        {  
-            Permission person = new Permission();
-            person.CheckAge();
-        }  
-    } 
+//     class Program  
+//     {  
+//         static void Main(string[] args)  
+//         {  
+//             Permission person = new Permission();
+//             person.CheckAge();
+//         }  
+//     } 
