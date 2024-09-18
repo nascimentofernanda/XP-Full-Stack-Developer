@@ -1,10 +1,10 @@
 ﻿//Person.cs
-// using DotNet.Models; //Where the class is located
-// Person person1 = new Person();
+using DotNet.Models; //Where the class is located
+Person person1 = new Person();
 
-// person1.Name = "Fernanda";
-// person1.Age = 30;
-// person1.Present();
+person1.Name = "Fernanda";
+person1.Age = 30;
+person1.Present();
 
 
 //Stock.cs
@@ -52,3 +52,13 @@
 //             person.CheckAge();
 //         }  
 //     } 
+
+//Calculator.cs
+// using DotNet.Models;
+
+// Calculator calc = new Calculator();
+
+// calc.Add(2,2);
+// calc.Subtract(2,2);
+// calc.Multiply(2,2);
+// calc.ToDivide(2,2);

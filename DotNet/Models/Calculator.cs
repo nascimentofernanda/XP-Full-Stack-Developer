@@ -7,22 +7,22 @@ namespace DotNet.Models
 {
     public class Calculator
     {
-        public Void add(int x, int y)
+        public void Add(int x, int y)
         {
             Console.WriteLine($"{x} + {y} = {x+y}");
         }
 
-        public Void subtract(int x, int y)
+        public void Subtract(int x, int y)
         {
             Console.WriteLine($"{x} - {y} = {x-y}");
         }
 
-        public Void multiply(int x, int y)
+        public void Multiply(int x, int y)
         {
             Console.WriteLine($"{x} * {y} = {x*y}");
         }
 
-        public Void add(int x, int y)
+        public void ToDivide(int x, int y)
         {
             Console.WriteLine($"{x} / {y} = {x/y}");
         }
